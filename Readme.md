@@ -1,7 +1,7 @@
-# DEADLY SPAMMER
+# LETHAL SPAMMER
 
 <p align="center">
-  <img src="https://telegra.ph/file/b8e3d5d94082a37b61d8a.jpg">
+  <img src="https://telegra.ph/file/92328c3f822f0aa2cb5b4.jpg">
 </p>
 
 
@@ -33,7 +33,7 @@
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fsameerpanthi%2FDEADLY-SPAM-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fsameerpanthi%2FLETHAL-SPAM-BOT)
 
 ------------------------------------------------
 
