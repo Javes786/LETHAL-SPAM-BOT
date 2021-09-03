@@ -1,1 +1,2 @@
-worker: python3 Lethal.py
+#script for faster deploy
+worker: python3 lethal.py
