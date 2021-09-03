@@ -29,11 +29,11 @@
 -------------------------------------------------
 
 ## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/SAMEER_795)
-
+## HaaN ToH Mai Nachu 😂
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fsameerpanthi%2FLETHAL-SPAM-BOT-host)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Javes786%2FLETHAL-SPAM-BOT-host)
 
 ------------------------------------------------
 
